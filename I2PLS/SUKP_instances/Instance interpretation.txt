@@ -1,0 +1,15 @@
+
+
+The interpretation of instances "sukp 100_85_0.10_0.75 "
+
+*************************************************************************************************
+
+Here, 100 is the number of items£¬85 is the number of elements;
+
+0.10 is the density of element "1" in the relation matrix;
+
+0.75 indicates that the knapsack size is equal to the 75% of the total weight of 85 elements.
+
+*************************************************************************************************
+
+by Yichao He, 2016-5-31
