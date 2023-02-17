@@ -1,0 +1,9 @@
+número_de_ítems (m)
+número_de_elementos (n)
+peso máximo de la mochila (K)
+
+Ganancia de cada uno de los ítems
+
+Pesos de cada uno de los elementos
+
+Elementos que cubren cada uno de los ítems (es decir, m vectores de tamaño n)
